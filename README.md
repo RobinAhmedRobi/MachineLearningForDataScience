@@ -7,7 +7,7 @@ Coronavirus disease, code-named COVID-19, is an infectious disease caused by a v
 
 With more than 10months of rigorous experiments, different country has started producing vaccination. While Some of them are already approved, others are in final trial stage and awaiting approval from WHO(World Health Organization).
 
-Modeling viral diseases such as COVID-19 is extremely important in determining their possible future impact. Modeling the spread and the effect of such a disease can be supremely important in understanding its impact. However to align with this, the project has been done to focus and experiment on predicting covid-19 confirmed cases and Active cases for next 45 days. In this project, prediction is being done using polynomial regression and SVM(Support Vector Machine) models
+Modeling viral diseases such as COVID-19 is extremely important in determining their possible future impact. Modeling the spread and the effect of such a disease can be supremely important in understanding its impact. However to align with this, the project has been done to focus and experiment on predicting covid-19 confirmed cases and Active cases for next 45 days. In this project, prediction is being done using polynomial regression, SVM(Support Vector Machine) and ARIMA Time Series models
 
 # Project Objectives:
 
